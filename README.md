@@ -24,9 +24,9 @@ Actively seeking SDE / Full-Stack Developer roles (2027 batch)
 - JWT authentication with bcrypt | MongoDB Atlas | Netlify + Render
 
 ### [Vibio](https://github.com/Satwikag936/vibio)
-> YouTube-inspired video platform | MERN Stack | Multer file uploads
+> YouTube-inspired video streaming platform | MERN Stack | Multer file uploads
 - Channel creation, video upload, home feed with search
-- Like/unlike/share with VideoStats collection
+- Like/unlike/share with dedicated VideoStats collection
 - Search across video titles and channel names using MongoDB $or + $regex
 
 ### [Hospital Appointment System](https://github.com/Satwikag936/hospital-appointment-system)
@@ -44,4 +44,4 @@ Actively seeking SDE / Full-Stack Developer roles (2027 batch)
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satwika-blue?logo=linkedin)](https://www.linkedin.com/in/g-aiswarya-satwika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satwika-blue?logo=linkedin)](https://www.linkedin.com/in/aiswarya-satwika-gannavarapu)
