@@ -44,4 +44,4 @@ Actively seeking SDE / Full-Stack Developer roles (2027 batch)
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satwika-blue?logo=linkedin)](https://www.linkedin.com/in/aiswarya-satwika-gannavarapu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satwika-blue?logo=linkedin)](https://linkedin.com/in/aiswarya-satwika-gannavarapu)
